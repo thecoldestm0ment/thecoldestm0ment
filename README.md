@@ -46,11 +46,11 @@
 <br>
 
 <div align="center">
-<a href="[https://pixxlix.tistory.com](https://pixxlix.tistory.com/)">
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-</a>
-<a [href="mailto:busygalyoonk@gmail.com](mailto:href=%22mailto:busygalyoonk@gmail.com)">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-</a>
-</div>
+  <a href="https://pixxlix.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+  </a>
+  
+  <a href="mailto:busygalyoonk@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+  </a>
 </div>
