@@ -1,6 +1,6 @@
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-☃️ Hi, I'm pixxlix - Engineering Student
+Hi, I'm pixxlix - Engineering Student
 </h2>
 
 <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
@@ -13,7 +13,7 @@
 </div>
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-🛠️ Tech Stacks
+Tech Stacks
 </h2>
 
 
@@ -28,29 +28,15 @@
 
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-🌱 Currently learning
+Currently learning
 </h2>
 <br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 </div>
 </div>
 
 <div style="text-align: left;">
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-🧑‍💻 Contact me
-</h2>
-<br>
-
-<div align="center">
-  <a href="https://pixxlix.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-  </a>
-  
-  <a href="mailto:busygalyoonk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
-  </a>
-</div>
