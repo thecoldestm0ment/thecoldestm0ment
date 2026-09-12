@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/NVMe%20FDP-1E4E79?style=for-the-badge">
     <img src="https://img.shields.io/badge/SSD%20%2F%20FTL-4B5563?style=for-the-badge">
     <img src="https://img.shields.io/badge/Linux%20I%2FO-333333?style=for-the-badge&logo=linux&logoColor=white">
-    <img src="https://img.shields.io/badge/Blockchain%20Infrastructure-121D33?style=for-the-badge&logo=ethereum&logoColor=white">
+    <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=ethereum&logoColor=white">
   </div>
 </div>
 
