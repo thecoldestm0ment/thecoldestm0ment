@@ -1,13 +1,13 @@
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-    Hi, I'm pixxlix - Engineering Student
+    Hi, I'm pixxlix - Computer Science Student
   </h2>
 
   <div style="font-weight: 700; font-size: 15px; color: #c9d1d9;">
     <ul>
-      <li>Interested in backend infrastructure, system architecture, and database system design & management</li>
-      <li>Interested in query optimization and database performance tuning</li>
-      <li>Studying operating systems internals, modern Linux I/O models</li>
+      <li>Interested in storage systems, caching, and systems performance</li>
+      <li>Exploring SSD/FTL design, NVMe Flexible Data Placement, WAF</li>
+      <li>Studying Linux I/O and hardware-software interactions across the memory/storage hierarchy</li>
     </ul>
   </div>
 </div>
@@ -18,11 +18,12 @@
   </h2>
 
   <div align="left">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=spring%20boot&logoColor=black">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=white">
-    <img src="https://img.shields.io/badge/Rhinoceros-%23801010.svg?style=for-the-badge&logo=rhinoceros&logoColor=white">
-    <img src="https://img.shields.io/badge/autocad-%23E51050.svg?style=for-the-badge&logo=autocad&logoColor=white">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
   </div>
 </div>
 
@@ -30,13 +31,14 @@
 
 <div style="text-align: left;">
   <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
-    Currently learning
+    Currently Exploring
   </h2>
 
   <div align="left">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white">
+    <img src="https://img.shields.io/badge/NVMe%20FDP-1E4E79?style=for-the-badge">
+    <img src="https://img.shields.io/badge/SSD%20%2F%20FTL-4B5563?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Linux%20I%2FO-333333?style=for-the-badge&logo=linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Blockchain%20Infrastructure-121D33?style=for-the-badge&logo=ethereum&logoColor=white">
   </div>
 </div>
 
